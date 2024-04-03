@@ -33,6 +33,6 @@ class AppBD():
         try:
             cursor = self.connection.cursor()
 
-
+''''''
 
 
